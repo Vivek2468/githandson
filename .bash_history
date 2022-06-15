@@ -124,3 +124,7 @@ git branch
 git checkout branch_1
 git branch
 vi Hello.java 
+git checkout .bash_history
+git checkout master
+git status
+git commit -m "commit"
